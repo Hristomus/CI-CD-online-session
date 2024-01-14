@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.13.0a2-bookworm
 # Set application working directory
 WORKDIR /usr/src/app
 # Install requirements
